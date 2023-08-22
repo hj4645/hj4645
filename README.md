@@ -6,7 +6,15 @@
 <h3 align="center"> 🔹 SNS 🔹 </h3>
 <div align="center">
   
- ![Static Badge](https://img.shields.io/badge/Velog-%2320C997?style=flat-square&logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40tabi4645) ![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white&link=hjpark4645%40gmail.com)  ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fhj4645) 
+<a href="https://velog.io/@tabi4645">
+  <img src="https://img.shields.io/badge/Velog-%2320C997?style=flat-square&logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40tabi4645" alt="Velog" />
+</a>
+<a href="mailto:hjpark4645@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white&link=hjpark4645%40gmail.com" alt="Gmail" />
+</a>
+<a href="https://github.com/hj4645">
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fhj4645" alt="GitHub" />
+</a>
 
 (클릭 시 이동합니다.)
 </div>
