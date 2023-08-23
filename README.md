@@ -37,7 +37,8 @@
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white)  ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Static Badge](https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white)  ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![Static Badge](https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/d3.js-%23F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white) ![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white) ![Static Badge](https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white) 
+
 
 </div>
 
